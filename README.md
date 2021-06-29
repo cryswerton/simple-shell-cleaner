@@ -1,7 +1,7 @@
 #Simple Shell Cleaner
 
 ## What is it?
-This is basecally a shortcut command that does exactly the same as the clear command does in Linux; but with you having to type less, just the c word. It cleans the terminal.
+This is basically a shortcut command that does exactly the same as the clear command does in Linux; but with you having to type less, just the c word. It cleans the terminal.
 
 ## Available to
 
@@ -19,7 +19,7 @@ mkdir ~/c_programs
 ```
 ### Clone the Simple Shell Cleaner inside the c_programs folder:
 ```
-git clone 
+git clone https://github.com/cryswerton/simple-shell-cleaner.git
 ```
 ### get in the simple-shell-cleaner folder that is inside your c_programs folder:
 ```

@@ -22,7 +22,7 @@ mkdir ~/c_programs
 cd ~/c_programs
 git clone https://github.com/cryswerton/simple-shell-cleaner.git
 ```
-### Add this line to your .bash_aliases file, but **DON'T** forget to replace the path below with your own path:
+### Create an alias in your .bash_aliases file:
 ```
 echo "alias c=\"~/c_programs/simple-shell-cleaner/c\"" >> ~/.bash_aliases
 ```

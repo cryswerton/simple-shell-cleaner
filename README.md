@@ -19,6 +19,7 @@ mkdir ~/c_programs
 ```
 ### Clone the Simple Shell Cleaner inside the c_programs folder:
 ```
+cd ~/c_programs
 git clone https://github.com/cryswerton/simple-shell-cleaner.git
 ```
 ### get in the simple-shell-cleaner folder that is inside your c_programs folder:

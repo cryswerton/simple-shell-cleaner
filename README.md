@@ -22,17 +22,9 @@ mkdir ~/c_programs
 cd ~/c_programs
 git clone https://github.com/cryswerton/simple-shell-cleaner.git
 ```
-### get in the simple-shell-cleaner folder that is inside your c_programs folder:
-```
-cd ~/c_programs/simple-shell-clear
-```
-### Inside the simple-shell-cleaner folder, type the following and press Enter to get the current path:
-```
-pwd
-```
 ### Add this line to your .bash_aliases file, but **DON'T** forget to replace the path below with your own path:
 ```
-alias c="path"
+alias c="~/c_programs/simple-shell-cleaner/c"
 ```
 ### Now just restart the terminal and it will work fine!
 

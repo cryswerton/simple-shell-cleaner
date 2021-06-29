@@ -1,4 +1,4 @@
-#Simple Shell Cleaner
+# Simple Shell Cleaner
 
 ## What is it?
 This is basically a shortcut command that does exactly the same as the clear command does in Linux; but with you having to type less, just the c word. It cleans the terminal.

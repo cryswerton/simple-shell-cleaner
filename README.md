@@ -24,7 +24,7 @@ git clone https://github.com/cryswerton/simple-shell-cleaner.git
 ```
 ### Add this line to your .bash_aliases file, but **DON'T** forget to replace the path below with your own path:
 ```
-echo "alias c=\"~/c_programs/simple-shell-cleaner/c\""
+echo "alias c=\"~/c_programs/simple-shell-cleaner/c\"" >> ~/.bash_aliases
 ```
 ### Now just restart the terminal and it will work fine!
 

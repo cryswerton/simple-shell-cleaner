@@ -15,7 +15,7 @@ touch ~/.bash_aliases
 ```
 ### Create a folder named c_programs inside your home directory:
 ```
-mkdir ~/c_programs
+test -d ~/c_programs && echo The folder already exists. Please, paste the next command. || mkdir ~/c_programs
 ```
 ### Clone the Simple Shell Cleaner inside the c_programs folder:
 ```

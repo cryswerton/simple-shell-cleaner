@@ -11,7 +11,7 @@ Linux
 
 ### Create (If it doesn't exist already) the .bash_aliases file on your home directory:
 ```
-touch ~/.bash_aliases
+test -f ~/.bash_aliases && echo file already exists, please paste the next command. || touch ~/.bash_aliases
 ```
 ### Create a folder named c_programs inside your home directory:
 ```
